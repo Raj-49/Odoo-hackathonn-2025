@@ -178,13 +178,6 @@ cd Backend
 .\test-workzen-workflow.ps1
 ```
 
-# 🏗️ Architecture
-
-Here’s an overview of the project architecture:
-
-![Architecture Diagram](https://github.com/shrey3108/news-frontend/blob/main/b.png)
-
----
 
 # 🎨 UI Components
 
@@ -197,9 +190,6 @@ EcoFinds features a clean, modern interface with sustainability at its core:
 
 ---
 
-# 🗂️ Database Schema
-
-![Database Schema](https://github.com/shrey3108/news-frontend/blob/main/a.png)
 
 # 🔌 API Endpoints
 
