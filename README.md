@@ -37,25 +37,32 @@ Management System (HRMS).
 ---
 
 # 📄 Smart Attendance & Payroll System
--Automated Attendance: Track employee check-in/out times, work hours, and extra hours.
--Status Tracking: Auto-mark present, absent, or on-leave status.
--Payroll Integration: Attendance directly linked to salary calculation.
--Secure Access: Only employees can mark attendance; admins can view all records.
+
+- **Automated Attendance:** Track employee check-in/out times, work hours, and extra hours.  
+- **Status Tracking:** Auto-mark present, absent, or on-leave status.  
+- **Payroll Integration:** Attendance directly linked to salary calculation.  
+- **Secure Access:** Only employees can mark attendance; admins can view all records.  
+
 ---
 
 # 📊 Centralized Dashboard
 
--Reporting: Generate and print attendance or salary reports anytime.
--Employee View: Check attendance, time-off balance, and personal info.
--Admin View: Manage employees, payroll, and reports from one place.
--Payroll View: Auto-generate payslips with detailed computation.
--Reporting: Generate and print attendance or salary reports anytime.
+- **Reporting:** Generate and print attendance or salary reports anytime.  
+- **Employee View:** Check attendance, time-off balance, and personal info.  
+- **Admin View:** Manage employees, payroll, and reports from one place.  
+- **Payroll View:** Auto-generate payslips with detailed computation.  
+
 ---
-# 📊 Role-Based Management
--Admin Panel: Create users, assign roles, and manage departments.
--Employee Access: View personal profile, attendance, and payslips.
--Time-Off Workflow: Apply, approve, or reject leave requests with manager-level control.
--Security Control: Auto-generated credentials with password management.
+
+# 🧭 Role-Based Management
+
+- **Admin Panel:** Create users, assign roles, and manage departments.  
+- **Employee Access:** View personal profile, attendance, and payslips.  
+- **Time-Off Workflow:** Apply, approve, or reject leave requests with manager-level control.  
+- **Security Control:** Auto-generated credentials with password management.  
+
+---
+
 
 
 # 🚀 Quick Start
