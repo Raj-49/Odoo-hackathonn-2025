@@ -1,4 +1,6 @@
-# 💼 Expense Management System
+# 💼 Company overview with logo and quick stats Employee management and payroll setup
+
+Salary configuration and report generation
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React Native](https://img.shields.io/badge/React%20Native-0.72.0-61dafb.svg)
 ![Node.js](https://img.shields.io/badge/Node.js-18.0%2B-green.svg)
