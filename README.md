@@ -1,4 +1,4 @@
-# 💼 ##Company overview with logo and quick stats Employee management and payroll setup
+### 💼 Company Overview – Logo and quick payroll stats
 
 Salary configuration and report generation
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
