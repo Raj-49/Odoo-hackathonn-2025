@@ -1,4 +1,4 @@
-### 💼 Company Overview – Logo and quick payroll stats
+## 💼 Company Overview – Logo and quick payroll stats
 
 Salary configuration and report generation
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -19,7 +19,7 @@ Salary configuration and report generation
 
 ---
 
-WorkZen aims to modernize and simplify how organizations manage people, 
+## WorkZen aims to modernize and simplify how organizations manage people, 
 processes, and payroll through a comprehensive, all-in-one Human Resource 
 Management System (HRMS).
 ---
